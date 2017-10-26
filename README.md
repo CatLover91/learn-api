@@ -12,9 +12,10 @@ that is literally it
 ## Set up your project
 
 1. Make a directory in your user account's home directory where you will keep all of the code.
-2. Download the [app](./app.js) template and [package.json](./package.json) template into the folder.
-3. Run `npm install` in the directory to install dependencies.
-4. Run `node app.js` to start the server
+2. `cd mydirectoryname` to change scopes to the project root and then `npm init` to initialize a node project.
+3. Download [app.js](./app.js) template into the folder or make a new file and type it out (it's pretty short).
+4. Run `npm install express` in the directory to install express as a dependencies.
+5. Run `node app.js` to start the server
 
 You now have a simple server running at http://192.your.ip.1:8080
 
