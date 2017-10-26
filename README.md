@@ -12,7 +12,7 @@ that is literally it
 ## Set up your project
 
 1. Make a directory in your user account's home directory where you will keep all of the code.
-2. `cd mydirectoryname` to change scopes to the project root and then `npm init` to initialize a node project.
+2. `cd mydirectoryname` to change scopes to the project root and then `npm init` to initialize a node project. Just hit enter on the questions npm init asks if you don't care about answering them.
 3. Download [app.js](./app.js) template into the folder or make a new file and type it out (it's pretty short).
 4. Run `npm install express` in the directory to install express as a dependencies.
 5. Run `node app.js` to start the server
