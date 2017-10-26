@@ -55,7 +55,7 @@ All you have to do is change what happens in the function within the `app.get`. 
 
 ### Make it run in production mode
 
-When you run the application, use the command `NODE_ENV=production node app.js.`. This makes node run more stably, but makes it harder to debug due to included caching.
+When you run the application, use the command `NODE_ENV=production node app.js`. This makes node run more stably, but makes it harder to debug due to included caching.
 
 ### Make it run in the background
 
