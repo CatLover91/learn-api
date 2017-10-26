@@ -4,7 +4,7 @@ Sometimes you just want to run your own API from a vps. If you are looking to re
 
 ## What you need
 
-1. A vps: Your code needs to run somewhere. I like [linode]() but [digital ocean]() and [vultr]() are great too.
+1. A vps: Your code needs to run somewhere. I like [linode](https://www.linode.com/) but [digital ocean](https://www.digitalocean.com/) and [vultr](https://www.vultr.com/) are great too.
 2. Nodejs: The absolute fastest way to get an api server up. Make sure to install node in the way [your operating system recommends](https://nodejs.org/en/download/package-manager/).
 
 that is literally it
