@@ -13,7 +13,7 @@ that is literally it
 
 1. Make a directory in your user account's home directory where you will keep all of the code.
 2. Download the [app](./app.js) template and [package.json](./package.json) template into the folder.
-3. Run `npm install' in the directory to install dependencies.
+3. Run `npm install` in the directory to install dependencies.
 4. Run `node app.js` to start the server
 
 You now have a simple server running at http://192.your.ip.1:8080
